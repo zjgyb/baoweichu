@@ -1,0 +1,141 @@
+.header-left{
+	width: 600px;
+	height: 100%;
+}
+.header-leftlogo,.header-leftfont{
+	height: 79.2px;
+	float: left;
+}
+.header-leftlogo{
+	width: 100px;
+	overflow: hidden;
+}
+.header-leftfont{
+	width: 500px;
+}
+.logo{
+	width: 80px;
+	height: 65px;
+	margin-top: 8px;
+	margin-left: 14px;
+}
+.logo-intro{
+	line-height: 79.2px;
+	font-size: 28px;
+}
+.panel-title-1{
+	font-size: 25px;
+	margin-top: -5px;
+}
+.col-md-first{
+	width: 100%;
+	margin-top: 25px;
+}
+.col-md-61{
+	width: 100%;
+	margin-top: 25px;
+}
+.col-md-second{
+	margin-top: 0;
+}
+.h5-color{
+	color: #3ca512;
+}
+.fancy-radio1{
+	display: inline-block;
+}
+.form-group input{
+	width: 400px;
+	margin:auto;
+	font-size: 20px;
+	border:0;
+	border-color: transparent;
+	background-color: transparent;
+	outline: none;
+}
+.panel-heading .right{
+	margin-top: 7px;
+}
+.panel-heading .right form button {
+	background-color: #41B314;
+	border-color: #3ca512;
+	width: 72px;
+	height: 32px;
+}
+.col-md-41{
+	width: 100%;
+}
+.panel-cfirst{
+	height: 340px;
+}
+.panel-heading-cfirst{
+	background-color: #f1f1f1;
+	height: 40px;
+}
+.panel .panel-heading-cfirst .panel-title-cfirst {
+	margin-top: -7px;
+}
+.panel-heading-cfirst a:first-child{
+	padding-left: 0px;
+}
+.panel-heading-cfirst a {
+	padding-left: 15px;
+}
+.panel .panel-title-efirst{
+	padding-top: 0;
+	padding-bottom: 0;
+	margin-top: -50px;
+}
+.right1{
+	width: 340px;
+}
+.form-control1{
+	width: 90px;
+	display: inline-block;
+}
+.form-control2{
+	width: 80px;
+	display: inline-block;
+}
+.panel-title-radio1{
+	width: 500px;
+	height: 30px;
+	position: relative;
+	display: inline-block;
+}
+.panel-title-radio1 span{
+	width: 80px;
+	height: 100%;
+}
+.fancy-radio1{
+	display: inline-block;
+}
+.panel-textarea{
+	width: 100%;
+	border:0;
+	outline: none;
+}
+.panel-footer-ondblclick{
+	cursor: pointer;
+}
+.panel-body-form{
+	position: relative;
+	margin-top: -15px;
+}
+.panel-body form .input-file{
+	display: inline-block;
+	width: 100px;
+	height: 45px;
+	padding-top: 15px;
+	outline: none;
+	overflow: hidden;
+	cursor: pointer;
+	position: relative;
+	top:11px;
+	left: -100px;
+	opacity: 0;
+}
+.btn-submit{
+	position: relative;
+	left: -90px;
+}
